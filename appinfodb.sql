@@ -2,10 +2,11 @@
 SQLyog 企业版 - MySQL GUI v8.14 
 MySQL - 5.5.40 : Database - appinfodb
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
-
+sssssssssssssssssss
 /*!40101 SET SQL_MODE=''*/;
 
 /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
